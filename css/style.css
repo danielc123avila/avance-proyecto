@@ -21,7 +21,7 @@ h2 {
 #fotografia {
   color: white;
   text-align: center;
-  background-image: url(./img/hero.jpg);
+  background-image: url(../img/hero.jpg);
   background-position-y: -200px;
   padding: 75px;
   margin: 15px 0px;
